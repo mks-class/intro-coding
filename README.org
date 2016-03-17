@@ -33,10 +33,6 @@
 + *Do not hesitate to ask for help*
   + Raise your hand so we can get you a microphone
 
-** Questions about MakerSquare & MakerPrep?
-
-There will be an info session immediately following the workshop.
-
 ** What is Programming?
 
 + Programming /is/ the act of writing computer code
