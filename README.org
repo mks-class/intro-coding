@@ -1,7 +1,7 @@
 #+TITLE: Intro to Coding
-#+AUTHOR: Josh Lehman
-#+EMAIL: reactorprep@hackreactor.com
-#+CREATOR: Hack Reactor
+#+AUTHOR: MakerSquare San Jose
+#+EMAIL: sanjose@makersquare.com
+#+CREATOR: MakerSquare San Jose
 #+REVEAL_EXTRA_CSS: ./assets/presentation.extra.css
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
 #+OPTIONS: toc:nil reveal_slide_number:nil num:nil
@@ -9,7 +9,7 @@
 
 #+BEGIN_HTML
 <div id="logo-container">
-  <a href="http://hackreactor.com">
+  <a href="https://makersquare.leadpages.co/sanjose/?source=github">
     <img id="logo-image" src="assets/mks-logo-github.png">
   </a>
 </div>
@@ -33,7 +33,7 @@
 + *Do not hesitate to ask for help*
   + Raise your hand so we can get you a microphone
 
-** Questions about Hack Reactor & Reactor Prep?
+** Questions about MakerSquare & MakerPrep?
 
 There will be an info session immediately following the workshop.
 
@@ -413,6 +413,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 
 * Next Steps
 
-** Questions about Hack Reactor & Reactor Prep?
+** Questions about MakerSquare & MakerPrep?
 
 There will be an info session immediately following the workshop.
