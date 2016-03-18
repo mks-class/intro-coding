@@ -1,7 +1,7 @@
 #+TITLE: Intro to Coding
-#+AUTHOR: Josh Lehman
-#+EMAIL: freeoneday@hackreactor.com
-#+CREATOR: Hack Reactor
+#+AUTHOR: MakerSquare
+#+EMAIL: naveed.lalani@hackreactorcore.com
+#+CREATOR: MakerSquare
 #+REVEAL_EXTRA_CSS: ./assets/presentation.extra.css
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
 #+OPTIONS: toc:nil reveal_slide_number:nil num:nil
@@ -9,9 +9,7 @@
 
 #+BEGIN_HTML
 <div id="logo-container">
-  <a href="http://hackreactor.com/remote-beta">
-    <img id="logo-image" src="assets/hr-logo.png">
-  </a>
+  <img id="logo-image" src="assets/mks-logo-github.png">
 </div>
 #+END_HTML
 
@@ -31,13 +29,8 @@
   + Follow along with examples in lecture
   + Exercises throughout
 + *Do not hesitate to ask for help*
-  + Public chat in lecture
-  + Private chat (see link in video details)
+  + Raise your hand so we can get you a microphone
 
-** Questions about Hack Reactor & Remote Prep?
-
-+ Information Session, 11:00-11:30AM PST
-+ See *Important URLS* in Twitch for link
 ** What is Programming?
 
 + Programming /is/ the act of writing computer code
@@ -104,7 +97,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Primitives: Strings
 
@@ -135,7 +127,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Primitives: Booleans
 
@@ -172,7 +163,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Variables
 
@@ -211,7 +201,6 @@ Do the following exercises at the console:
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Interlude: Equality
 
@@ -257,7 +246,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Compound Data: Arrays
 
@@ -308,7 +296,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Recap
 
@@ -319,7 +306,7 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + *Arrays* represent many pieces of data (usually similar)
 * Basics of Functions
 
-/Functions/ allow us to represent a /task/ with a name and parameters.
+/Functions/ allow us to do work. We label that work with a name. The work to be performed may vary based on inputs.
 
 ** What are Functions?
 
@@ -346,7 +333,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Functions with Multiple Arguments
 
@@ -376,7 +362,6 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Functions with Data Structures
 
@@ -412,23 +397,16 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + To open the console:
   + *Mac:* Command + Option + J
   + *Windows/Linux:* Control + Shift + J
-+ Live 1:1 chat help, click [[https://secure.livechatinc.com/licence/7021531/open_chat.cgi][here]] or #2 on *Important URLS*
 
 ** Recap
-
 
 + *Functions* describe how to perform a task given arguments (parameters)
   + Don't solve the same problem multiple times: /use a function/
 + Functions can take multiple arguments
 + Arguments to and results from functions can be any kind of data
 
-
 * Next Steps
-** 15 Minute Phone Call
 
-Schedule a 15 minute phone call (see *Important URLS* in Twitch)
+** Questions about MakerSquare & MakerPrep?
 
-** Questions about Hack Reactor & Remote Prep?
-
-+ Information Session, 11:15-11:45AM PST
-+ See *Important URLS* in Twitch for link
+There will be an info session immediately following the workshop. Apply for free admission to MakerPrep in [[http://bit.ly/makerprep-boston][Boston]], [[http://bit.ly/makerprep-chicago][Chicago]], or [[http://bit.ly/makerprep-sanjose][San Jose]].
